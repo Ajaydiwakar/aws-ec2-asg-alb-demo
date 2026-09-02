@@ -1,0 +1,8 @@
+# Application runtime settings
+APP_NAME="pyneta-app"
+LOG_PATH="/app/logs/pyneta-app.log"
+PORT=6100
+HOST="0.0.0.0"
+
+# Optional: if you want to use a different file path or values,
+# update them here and source this file from the startup script.
