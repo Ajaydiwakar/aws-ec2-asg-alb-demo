@@ -315,7 +315,7 @@ After modifying the Dockerfile, rebuild the image:
 ```bash
 docker build \
   --build-arg APP_VERSION=1.0 \
-  -t docker-all-instructions:1.0 .
+  -t docker-all-instructions:1.0 . --no-cache
 ```
 
 Then run the container again:
