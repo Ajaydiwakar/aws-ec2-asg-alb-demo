@@ -1,0 +1,1 @@
+Hello from ADD. This file was copied into the image during the build.
